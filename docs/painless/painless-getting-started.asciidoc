@@ -8,7 +8,7 @@ include::painless-description.asciidoc[]
 [[painless-examples]]
 === Painless Examples
 
-To illustrate how Painless works, let's load some hockey stats into an Elasticsearch index:
+To illustrate how Painless works, let's load some hockey stars into an Elasticsearch index:
 
 [source,js]
 ----------------------------------------------------------------
